@@ -10,15 +10,6 @@
  excel at transforming designs into captivating user experiences. My work focuses on crafting responsive interfaces, optimizing performance, and
  utilizing real-time data management to deliver exceptional user satisfaction.</p>
 
-
-
-## 🏠: Find Me On
-
-<p align="center">
-<a href="https://linkedin.com/in/t-m-rafidul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-m-rafidul-hasan" height="30" width="40" /></a>
-<a href="https://fb.com/siam.i.13.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siam.i.13.21" height="30" width="40" /></a>
-</p>
-
 ## 💻: Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
@@ -42,15 +33,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
 </div>
 
+
+
 ## :chart_with_upwards_trend: Status
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidul01&background=000000&stroke=ffffff&ring=ff8800&fire=ff8800&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="rafidul01" width="400" height="200" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafidul01&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="rafidul01" width="400" height="200" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidul01&background=000000&stroke=ffffff&ring=ff8800&fire=ff8800&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="rafidul01" width="400" height="200" />
-</p>
 
 ## :chart_with_upwards_trend: Most Used Languages
 
@@ -58,6 +52,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidul01&layout=compact&bg_color=000000&text_color=ffffff" alt="rafidul01" width="400" height="200" />
   </a>
+</p>
+
+
+## 🏠: Find Me On
+
+<p align="center">
+<a href="https://linkedin.com/in/t-m-rafidul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-m-rafidul-hasan" height="30" width="40" /></a>
+<a href="https://fb.com/siam.i.13.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siam.i.13.21" height="30" width="40" /></a>
 </p>
 
 
