@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://i.ibb.co.com/s9cpQmQF/Gemini-Generated-Image-acik44acik44acik.png" width="100%" alt="Banner"/>
 
 # Hi 👋, I'm Rafidul Hasan
@@ -14,7 +13,6 @@ Passionate about creating high-quality user experiences and continuously learnin
 <p>
 <img src="https://komarev.com/ghpvc/?username=rafidul01&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
 </div>
 
 ---
@@ -22,7 +20,6 @@ Passionate about creating high-quality user experiences and continuously learnin
 # 👨‍💻 About Me
 
 I'm a passionate **Full Stack Web Developer** from **Bangladesh**.
-
 I enjoy building clean, responsive, and user-friendly web applications that solve real-world problems.
 
 Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **GraphQL**, and **Docker** while continuously improving my full-stack development skills.
@@ -39,31 +36,26 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 # 🚀 Tech Stack
 
 ## Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp" />
 </p>
 
 ## Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
 </p>
 
 ## Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
 </p>
 
 ## Database
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase" />
 </p>
 
 ## Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
 </p>
@@ -86,7 +78,7 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafidul01&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rafidul01&theme=algolia&margin-w=8" />
 </p>
 
 ---
@@ -94,17 +86,12 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafidul01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafidul01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidul01&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafidul01&theme=tokyonight&hide_border=true"/>
-
+<img width="70%" src="https://streak-stats.demolab.com/?user=rafidul01&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -112,9 +99,7 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidul01&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -122,19 +107,15 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/t-m-rafidul-hasan">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-
 <a href="https://fb.com/siam.i.13.21">
 <img src="https://img.icons8.com/color/48/facebook-new.png"/>
 </a>
-
 <a href="mailto:rafidulhasan555@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
-
 </p>
 
 ---
@@ -142,14 +123,12 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 # 💻 Currently Learning
 
 <p>
-
 - 🚀 GraphQL
 - 🚀 Prisma ORM
 - 🚀 PostgreSQL
 - 🚀 Docker
 - 🚀 System Design
 - 🚀 Next.js Advanced Features
-
 </p>
 
 ---
