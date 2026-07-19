@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/s9cpQmQF/Gemini-Generated-Image-acik44acik44acik.png" width="100%" />
+<img src="https://i.ibb.co.com/s9cpQmQF/Gemini-Generated-Image-acik44acik44acik.png" width="100%" alt="Banner"/>
 
 # Hi 👋, I'm Rafidul Hasan
 
 ### 💻 Full Stack Web Developer | React • Next.js • Node.js • TypeScript
 
 <p>
-I build modern, responsive, and scalable web applications using the MERN stack and Next.js.
-Currently exploring GraphQL, Prisma, PostgreSQL, and cloud technologies.
+I build modern, scalable, and responsive web applications with React, Next.js, Node.js, and TypeScript.
+Passionate about creating high-quality user experiences and continuously learning new technologies.
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=rafidul01&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 </div>
@@ -19,104 +23,141 @@ Currently exploring GraphQL, Prisma, PostgreSQL, and cloud technologies.
 
 I'm a passionate **Full Stack Web Developer** from **Bangladesh**.
 
-I enjoy building clean, user-friendly web applications that solve real-world problems. My expertise lies in **React**, **Next.js**, **Node.js**, and **TypeScript**, while continuously expanding my backend knowledge with modern technologies like **Prisma**, **PostgreSQL**, and **GraphQL**.
+I enjoy building clean, responsive, and user-friendly web applications that solve real-world problems.
 
-I love learning new technologies, solving programming problems, and collaborating on innovative projects.
+Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **GraphQL**, and **Docker** while continuously improving my full-stack development skills.
 
 - 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **GraphQL, Prisma, Docker & System Design**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL**
-- ⚡ Fun fact: **I love Football ⚽ and Competitive Programming**
+- 🌱 Learning **GraphQL • Prisma • Docker**
+- 👯 Looking to collaborate on **Open Source & MERN Projects**
+- 💬 Ask me about **React, Next.js, Node.js, Express.js**
+- 📫 Email: **rafidulhasan555@gmail.com**
+- ⚡ Fun Fact: **I love Football ⚽ and Competitive Programming 💻**
 
 ---
 
 # 🚀 Tech Stack
 
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp" />
+</p>
+
 ## Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
+</p>
 
 ## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
 
 ## Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase" />
+</p>
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/t-m-rafidul-hasan)
+<p align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://fb.com/siam.i.13.21)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:rafidulhasan555@gmail.com)
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafidul01&theme=default)
-
-![](https://github-readme-stats.vercel.app/api?username=rafidul01&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidul01&layout=compact)
-
-</div>
+<p align="center">
+<b>🏅 Pull Shark x2 &nbsp;&nbsp;&nbsp; 🎉 YOLO</b>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rafidul01&theme=flat)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rafidul01&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafidul01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidul01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafidul01&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=rafidul01)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidul01&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=rafidul01&style=for-the-badge)
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/t-m-rafidul-hasan">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://fb.com/siam.i.13.21">
+<img src="https://img.icons8.com/color/48/facebook-new.png"/>
+</a>
+
+<a href="mailto:rafidulhasan555@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Currently Learning
+
+<p>
+
+- 🚀 GraphQL
+- 🚀 Prisma ORM
+- 🚀 PostgreSQL
+- 🚀 Docker
+- 🚀 System Design
+- 🚀 Next.js Advanced Features
+
+</p>
+
+---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
 
 </div>
