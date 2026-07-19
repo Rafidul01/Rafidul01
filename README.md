@@ -86,7 +86,7 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rafidul01&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rafidul01&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
