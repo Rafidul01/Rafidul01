@@ -75,20 +75,7 @@ Currently I'm expanding my backend knowledge with **Prisma**, **PostgreSQL**, **
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafidul01&theme=algolia&margin-w=8" />
-</p>
-
----
-
 # 📊 GitHub Statistics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafidul01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidul01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img width="70%" src="https://streak-stats.demolab.com/?user=rafidul01&theme=tokyonight&hide_border=true"/>
