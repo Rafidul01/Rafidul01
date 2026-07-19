@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="250" src="https://i.ibb.co/Jdf61GM/Blue-Black-Modern-Technology-Linked-In-Banner-3.png" />
+  <img height="250" src="https://i.ibb.co.com/s9cpQmQF/Gemini-Generated-Image-acik44acik44acik.png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rafidul</h1>
